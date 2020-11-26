@@ -1,0 +1,83 @@
+[TJ@tayota Final-Adv-Java-Assignment-TERRANCE-STEVENSON]$ java --module-path com.adv.java.application:com.adv.java.iostream:com.adv.java.xml:com.adv.java.network --module com.adv.java.application/com.adv.java.application.FinalApplication
+
+This program connects to the San Francisco Government Data Set API
+for film locations in San Francisco.
+
+1. It first calls the network module to connect to its url.
+2. The iostream module reads the web data and writes it to file.xml
+3. Lastly, the xml module parses and prints the first 10 lines of the output
+
+com.adv.java.network is connecting to URL
+
+com.adv.java.iostream is reading Web Data and writing to file.xml
+
+com.adv.java.xlm is parsing xml document from iostream. 
+
+com.adv.java.xml will print first ten rows of xml document.
+
+Current Element: row
+Row ID: row-m99r~gea6_qnzc
+Title: 180
+Release Year: 2011
+Location: Epic Roasthouse (399 Embarcadero)
+
+
+Current Element: row
+Row ID: row-5y5g.ndys~kq45
+Title: 180
+Release Year: 2011
+Location: Mason & California Streets (Nob Hill)
+
+
+Current Element: row
+Row ID: row-2mfy~3rmj-bydh
+Title: 180
+Release Year: 2011
+Location: Justin Herman Plaza
+
+
+Current Element: row
+Row ID: row-gpbf.b5k9.qhax
+Title: 180
+Release Year: 2011
+Location: 200 block Market Street
+
+
+Current Element: row
+Row ID: row-7gfq~6aaw~xprk
+Title: 180
+Release Year: 2011
+Location: City Hall
+
+
+Current Element: row
+Row ID: row-bzgr_qw59.62az
+Title: 180
+Release Year: 2011
+Location: Polk & Larkin Streets
+
+
+Current Element: row
+Row ID: row-97aj_is3g_i83f
+Title: 180
+Release Year: 2011
+Location: Randall Museum
+
+
+Current Element: row
+Row ID: row-p7pb-26j4-vntz
+Title: 180
+Release Year: 2011
+Location: 555 Market St.
+
+
+Current Element: row
+
+Current Element: row
+Row ID: row-swhh~py63-q8b6
+Title: A Night Full of Rain
+Release Year: 1978
+Location: Embarcadero Freeway
+
+All Done!
+[TJ@tayota Final-Adv-Java-Assignment-TERRANCE-STEVENSON]$ 

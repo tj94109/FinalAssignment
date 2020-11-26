@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Final-Adv-Java-Assignment-TERRANCE-STEVENSON.iml" filepath="$PROJECT_DIR$/.idea/Final-Adv-Java-Assignment-TERRANCE-STEVENSON.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.adv.java.application/com.adv.java.application.iml" filepath="$PROJECT_DIR$/com.adv.java.application/com.adv.java.application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.adv.java.iostream/com.adv.java.iostream.iml" filepath="$PROJECT_DIR$/com.adv.java.iostream/com.adv.java.iostream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.adv.java.network/com.adv.java.network.iml" filepath="$PROJECT_DIR$/com.adv.java.network/com.adv.java.network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.adv.java.xml/com.adv.java.xml.iml" filepath="$PROJECT_DIR$/com.adv.java.xml/com.adv.java.xml.iml" />
+    </modules>
+  </component>
+</project>
